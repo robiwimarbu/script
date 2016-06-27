@@ -1,4 +1,4 @@
-var pathSite ="http://www.audiocity.com.co/";
+var pathSite ="/";
 
 //url = pagina a llamar, data  son los datos enviados podria ser un form, 
 //type = a forma Post o GEt, layer= capa donde se ejecutara accion,
